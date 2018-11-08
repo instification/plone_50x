@@ -16,3 +16,7 @@ fake-eggs/
 parts/
 dist/
 var/
+lib/
+pip-selfcheck.json
+include/
+.Python
